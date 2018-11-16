@@ -1,0 +1,54 @@
+.instructions {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.instructions > article {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* .instructions-blah {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.number {
+  font-size: 
+} */
+
+.reviews {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.one-review {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.one-review > img {
+  width: 150px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.social-media {
+  display: flex;
+  justify-content: space-around;
+}
+
+#section5 {
+  margin-top: 100px;
+}
