@@ -10,7 +10,8 @@ nav {
 }
 
 .nav-logo {
-	
+	height: 70px;
+
 }
 
 .nav-list {
@@ -36,12 +37,12 @@ nav {
 
 .img-ctn {
 	
-	width: 40%;
+	width: 50%;
 }
 
 .txt-ctn {
 	
-	width: 40%;
+	width: 50%;
 	text-align: center;
 }
 
@@ -62,7 +63,7 @@ nav {
 }
 
 .text .button {
-	width: 40%;
+	width: 30%;
 	margin: 0 auto;
 	padding: 10px 90Px;
 }

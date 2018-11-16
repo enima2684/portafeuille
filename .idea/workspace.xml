@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f2ea725-da5f-4201-ab1a-2e23f24084dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/amine.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/amine.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/amine.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/amine.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/amine.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/amine.scss" afterDir="false" />
-    </list>
+    <list default="true" id="5f2ea725-da5f-4201-ab1a-2e23f24084dd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +22,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="jn.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="jn.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/css/jn.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="195">
-                  <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+                <state relative-caret-position="432">
+                  <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
@@ -38,13 +34,13 @@
           <file leaf-file-name="amine.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/js/amine.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+                <state relative-caret-position="495">
+                  <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="amine.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="amine.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/css/amine.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="350">
@@ -115,8 +111,8 @@
         <option value="$PROJECT_DIR$/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/assets/js/amine.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/assets/css/jn.css" />
         <option value="$PROJECT_DIR$/assets/css/amine.scss" />
+        <option value="$PROJECT_DIR$/assets/css/jn.css" />
       </list>
     </option>
   </component>
@@ -301,13 +297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/jn.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/dummy">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -345,13 +334,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/amine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -363,6 +345,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/amine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/jn.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
         </state>
       </provider>
     </entry>
