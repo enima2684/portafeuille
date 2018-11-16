@@ -1,6 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato|Lora');
+
 body,
 html{
     margin: 0;
+}
+
+body {
+	font-family: 'Lato'
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Lora';
 }
 
 ul{
