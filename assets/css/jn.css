@@ -32,7 +32,7 @@ nav {
 
 
 	
-}
+
 
 .img-ctn {
 	
@@ -50,11 +50,6 @@ nav {
 	width: 70%;
 }
 
-.
-
-.buy {
-
-}
 
 .button {
 	border: none;
@@ -62,11 +57,17 @@ nav {
 	padding: 10px 20px;
 	background-color: #EA5491;
 	color: white;
+	display: block;
+	text-align: center;
 }
 
 .text .button {
-	width: 100%;
+	width: 40%;
 	padding: 10px 90Px;
+}
+
+#logo-img {
+	width: 80%;
 }
 
 
