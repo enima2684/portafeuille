@@ -1,0 +1,8 @@
+.reviews {
+  display: flex;
+  flex-direction: row;
+}
+
+.reviews > article {
+  width: 33%;
+}
