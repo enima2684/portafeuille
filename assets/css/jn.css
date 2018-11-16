@@ -3,7 +3,7 @@ nav {
 	justify-content: space-between;
 	align-items: center;
 	padding: 0 3%;
-	height: 60px;
+	height: 70px;
 	border: 1px solid black;
 }
 
@@ -13,6 +13,7 @@ nav {
 
 .nav-list {
 	display: flex;
+	align-items: center;
 	justify-content: space-around;
 	border: 1px solid black;
 	width: 80%;
@@ -27,10 +28,8 @@ nav {
 
 /*######################## SECTION 1 #########################*/
 
-#section1 .container {
-	display: flex;
-	justify-content: center;
-	width: 100%;
+
+	
 }
 
 .img-ctn {
@@ -45,8 +44,11 @@ nav {
 }
 
 .text-ctn.text {
+	border: 1px solid black;
 	width: 70%;
 }
+
+.
 
 .buy {
 
@@ -60,3 +62,38 @@ nav {
 	color: white;
 }
 
+.text .button {
+	width: 100%;
+	padding: 10px 90Px;
+}
+
+
+/*################### SECTION 3 ###################*/
+
+
+#section3 .container {
+	justify-content: space-evenly;
+	border: 1px solid black;
+}
+
+.column li img, p {
+	display: inline-block;
+}
+
+.column li {
+	display: flex;
+	align-items: center;
+	border: 1px solid black;
+	margin-top: 40px;	
+}
+
+.feature-icon {
+	width: 90px;
+	height: 90px;
+	background-size: contain;
+}
+
+.feature-p {
+	margin-left: 40px;
+	width: 300px;
+}
