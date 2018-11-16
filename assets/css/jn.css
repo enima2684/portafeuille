@@ -2,21 +2,61 @@ nav {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: ;
+	padding: 0 3%;
+	height: 60px;
+	border: 1px solid black;
 }
 
 .nav-logo {
-
+	
 }
 
 .nav-list {
-
+	display: flex;
+	justify-content: space-around;
+	border: 1px solid black;
+	width: 80%;
 }
 
 .nav-link {
 	text-decoration: none;
 	font-size: 30px;
+	
+	color:#D341C5;
+}
 
-	color:;
+/*######################## SECTION 1 #########################*/
+
+#section1 .container {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+
+.img-ctn {
+	border: 1px solid black;
+	width: 40%;
+}
+
+.txt-ctn {
+	border: 1px solid black;
+	width: 40%;
+	text-align: right;
+}
+
+.text-ctn.text {
+	width: 70%;
+}
+
+.buy {
+
+}
+
+.button {
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+	background-color: #EA5491;
+	color: white;
 }
 
