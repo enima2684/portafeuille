@@ -36,8 +36,8 @@ $('#slider ul').css({ width: sliderUlWidth, marginLeft: - slideWidth });
   $('a.control_next').click(function () {
       moveRight();
   });
-//
-//
-// setInterval(function () {
-//   moveRight();
-// }, 4000);
+
+
+setInterval(function () {
+  moveRight();
+}, 4000);
