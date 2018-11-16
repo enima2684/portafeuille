@@ -9,7 +9,7 @@ nav {
 	
 }
 
-.nav-logo {	
+.nav-logo {
 	height: 70px;
 
 }
@@ -24,7 +24,7 @@ nav {
 
 .nav-link {
 	text-decoration: none;
-	font-size: 30px;
+	font-size: 20px;
 	
 	color: white
 }
@@ -43,18 +43,14 @@ nav {
 .txt-ctn {
 	
 	width: 50%;
-	text-align: right;
+	text-align: center;
 }
 
 .text-ctn.text {
 	
 	width: 70%;
 }
-.text {
-	display: flex;
-	flex-direction: column;
-	align-items: flex-end;
-}
+
 
 .button {
 	border: none;
@@ -68,6 +64,7 @@ nav {
 
 .text .button {
 	width: 30%;
+	margin: 0 auto;
 	padding: 10px 90Px;
 }
 
