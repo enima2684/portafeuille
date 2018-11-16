@@ -9,8 +9,9 @@ nav {
 	
 }
 
-.nav-logo {
-	
+.nav-logo {	
+	height: 70px;
+
 }
 
 .nav-list {
@@ -36,12 +37,12 @@ nav {
 
 .img-ctn {
 	
-	width: 40%;
+	width: 50%;
 }
 
 .txt-ctn {
 	
-	width: 40%;
+	width: 50%;
 	text-align: right;
 }
 
@@ -49,7 +50,11 @@ nav {
 	
 	width: 70%;
 }
-
+.text {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
 
 .button {
 	border: none;
@@ -62,7 +67,7 @@ nav {
 }
 
 .text .button {
-	width: 40%;
+	width: 30%;
 	padding: 10px 90Px;
 }
 
